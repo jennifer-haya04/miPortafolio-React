@@ -1,0 +1,1 @@
+node /home/app/resend/src/index.js
