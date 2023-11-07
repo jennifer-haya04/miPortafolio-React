@@ -1,3 +1,3 @@
 ./resend.sh &
 
-serve -s /home/app/app/build -l 3000
+serve -s /home/app/react/build -l 3000
